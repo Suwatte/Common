@@ -2,9 +2,9 @@
   "name": "common",
   "version": "1.0.0",
   "description": "Javascript libraries that come installed with Suwatte",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
-    "bundle": "node index.js"
+    "bundle": "node ./lib/index.js"
   },
   "keywords": [],
   "author": "Mantton <mantton.official@gmail.com>",
