@@ -1,6 +1,6 @@
 {
   "name": "common",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Javascript libraries that come installed with Suwatte",
   "main": "lib/index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "Mantton <mantton.official@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@suwatte/daisuke": "^2.0.0",
     "browserify": "^17.0.0",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "^4.1.1",
